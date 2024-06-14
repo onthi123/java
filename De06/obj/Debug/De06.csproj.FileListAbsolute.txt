@@ -1,0 +1,12 @@
+D:\Project\De06\bin\Debug\De06.exe.config
+D:\Project\De06\bin\Debug\De06.exe
+D:\Project\De06\bin\Debug\De06.pdb
+D:\Project\De06\obj\Debug\De06.csproj.AssemblyReference.cache
+D:\Project\De06\obj\Debug\De06.Cau2.resources
+D:\Project\De06\obj\Debug\De06.frMain.resources
+D:\Project\De06\obj\Debug\De06.Properties.Resources.resources
+D:\Project\De06\obj\Debug\De06.csproj.GenerateResource.cache
+D:\Project\De06\obj\Debug\De06.csproj.CoreCompileInputs.cache
+D:\Project\De06\obj\Debug\De06.exe
+D:\Project\De06\obj\Debug\De06.pdb
+D:\Project\De06\obj\Debug\De06.Cau3.resources

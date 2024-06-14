@@ -1,0 +1,13 @@
+D:\Project\De03\bin\Debug\De03.exe.config
+D:\Project\De03\bin\Debug\De03.exe
+D:\Project\De03\bin\Debug\De03.pdb
+D:\Project\De03\obj\Debug\De03.csproj.AssemblyReference.cache
+D:\Project\De03\obj\Debug\De03.Cau2.resources
+D:\Project\De03\obj\Debug\De03.Form1.resources
+D:\Project\De03\obj\Debug\De03.Properties.Resources.resources
+D:\Project\De03\obj\Debug\De03.csproj.GenerateResource.cache
+D:\Project\De03\obj\Debug\De03.csproj.CoreCompileInputs.cache
+D:\Project\De03\obj\Debug\De03.exe
+D:\Project\De03\obj\Debug\De03.pdb
+D:\Project\De03\obj\Debug\De03.Cau3.resources
+D:\Project\De03\obj\Debug\De03.themcauthu.resources
